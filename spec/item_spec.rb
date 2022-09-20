@@ -13,7 +13,7 @@ RSpec.describe Item do
     end
 
     it 'has attributes' do 
-      expect(@item2.name).to eq("Tomato")
-      expect(@item2.price).to eq('$0.50')
+      expect(@item2.name).to eq('Tomato')
+      expect(@item2.price).to eq(0.5)
     end
 end

@@ -24,9 +24,9 @@ class Market
     end
   end
 
-  def total_inventory
-    market_inventory = Hash.new(0)
-    market_inventory[item] = Hash.new(0)
-    market_inventory[item] = :quantity => 
-  end
+  # def total_inventory
+  #   market_inventory = Hash.new(0)
+  #   market_inventory[item] = Hash.new(0)
+  #   market_inventory[item] = :quantity => 
+  # end
 end
