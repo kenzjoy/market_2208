@@ -18,4 +18,9 @@ class Vendor
     else inventory[item] += quantity
     end
   end
+
+  # def potential_revenue
+    
+  
+  # end
 end
